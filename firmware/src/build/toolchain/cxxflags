@@ -1,6 +1,0 @@
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
-"-specs=/home/cipo/Documents/MobileRobot/firmware/src/build/specs/picolibc.specs"
--fno-rtti

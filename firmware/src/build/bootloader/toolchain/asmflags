@@ -1,5 +1,0 @@
-"-specs=/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader/specs/picolibc.specs"
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero

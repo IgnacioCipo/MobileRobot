@@ -1,0 +1,54 @@
+# Editor / IDE
+.vscode/
+*.code-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build / artefactos de compilación
+build/
+bin/
+obj/
+out/
+dist/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.out
+*.map
+*.lst
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# PlatformIO / Arduino / firmware
+.pio/
+.pioenvs/
+.piolibdeps/
+*.pio
+*.pdb
+*.srec
+*.eep
+*.bak
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+core
+*.core
+
+# Python (si en algún momento se usa)
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
