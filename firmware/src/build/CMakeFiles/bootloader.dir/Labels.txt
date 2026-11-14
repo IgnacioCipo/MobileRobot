@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/cipo/Documents/MobileRobot/firmware/src/build/CMakeFiles/bootloader
+/home/cipo/Documents/MobileRobot/firmware/src/build/CMakeFiles/bootloader.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/CMakeFiles/bootloader-complete.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/cipo/Documents/MobileRobot/firmware/src/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

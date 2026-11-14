@@ -1,0 +1,2 @@
+source /home/cipo/Documents/MobileRobot/firmware/src/build/gdbinit/symbols
+source /home/cipo/Documents/MobileRobot/firmware/src/build/gdbinit/connect
